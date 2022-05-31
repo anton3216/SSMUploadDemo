@@ -1,0 +1,6 @@
+org\qingqiao\service\UserService.class
+org\qingqiao\utils\FileUpload.class
+org\qingqiao\controller\UserController.class
+org\qingqiao\bean\User.class
+org\qingqiao\mapper\UserMapper.class
+org\qingqiao\service\UserServiceImpl.class
